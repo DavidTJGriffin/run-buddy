@@ -11,4 +11,4 @@ A website that offers fitness training services.
 https://ukarimu1.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by David Griffin
+Made with ❤️ by David Griffin.
